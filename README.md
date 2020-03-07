@@ -7,5 +7,5 @@ If either `Project Templates` or `File Templates` folder doesn't exist they shou
 
 ```sh
 $ mkdir -p ~/Library/Developer/Xcode/Templates/File\ Templates
-mkdir -p ~/Library/Developer/Xcode/Templates/Project\ Templates
+$ mkdir -p ~/Library/Developer/Xcode/Templates/Project\ Templates
 ```
